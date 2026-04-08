@@ -1,4 +1,4 @@
-# E-commerce Sales Analysis Dashboard (Excel)
+# E-commerce Sales Analysis (Excel)
 
 ## Project Overview
 This project analyzes an e-commerce sales dataset using Microsoft Excel to uncover insights about sales performance across regions, product categories, and individual products. The goal of this project is to transform raw sales data into meaningful business insights through data cleaning, pivot table analysis, and dashboard visualization.
